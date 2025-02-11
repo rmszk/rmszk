@@ -5,20 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmszk&label=Profile%20views&color=0e75b6&style=flat" alt="rmszk" /> </p>
 
+- 🌱 I’m currently Working **Networkinge**
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Github**
+- 💬 Ask me about **Data Science, Networking, Python, Arduino,**
 
 - 📫 How to reach me **raoshahrozmunim777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://wa.me/+923028124650" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="x.com/r_m_sz?mx=2" height="30" width="40"></a>
+<a href="https://wa.me/+923028124650" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="x.com/r_m_sz?mx=2" height="30" width="40"></a><a href="https://instagram.com/www.instagram.com/r_m_sz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/r_m_sz/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/raoshahroz44204/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="x.com/r_m_sz?mx=2" height="30" width="40"></a><a> 
 <a href="https://twitter.com/x.com/r_m_sz?mx=2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/r_m_sz?mx=2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rao-muhammad-shahroz-khan-0763b1203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rao-muhammad-shahroz-khan-0763b1203/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflow.com/users/27207838/rao-muhammad-shahroz-khan-sher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/27207838/rao-muhammad-shahroz-khan-sher" height="30" width="40" /></a>
 <a href="https://kaggle.com/www.kaggle.com/raoshahroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="www.kaggle.com/raoshahroz" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/r_m_sz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/r_m_sz/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/www.hackerrank.com/profile/rao_48539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/profile/rao_48539" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetcode.com/u/r_m_sz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/r_m_sz/" height="30" width="40" /></a>
 </p>
