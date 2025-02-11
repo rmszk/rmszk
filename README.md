@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shahroz</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer 💻👨‍💻</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmszk&label=Profile%20views&color=0e75b6&style=flat" alt="rmszk" /> </p>
 
-- 🌱 I’m currently Working **Networkinge**
-- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Data Science, Networking, Python, Arduino,**
-
+- 🔭  I’m currently Working on **Networkinge field**
+- 🌱 I’m currently learning **Data Science, Machine learning, and Artificial Intelligence.**
+- 💬 Ask me about **Data Science, Networking, Python, Arduino, etc**
 - 📫 How to reach me **raoshahrozmunim777@gmail.com**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1XCIrUVrRoNomGjkrBMWzw7Sildb5AVta/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
