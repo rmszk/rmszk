@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Data Science, Machine learning, and Artificial Intelligence.**
 - 💬 Ask me about **Data Science, Networking, Python, Arduino, etc**
 - 📫 How to reach me **raoshahrozmunim777@gmail.com**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1XCIrUVrRoNomGjkrBMWzw7Sildb5AVta/view?usp=sharing**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1Jt77e1LKVsju8dGau88jZPWx9Oph6YPL/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
